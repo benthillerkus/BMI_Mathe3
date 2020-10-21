@@ -1,1 +1,12 @@
 .ipynb_checkpoints
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.soc
+*.loc
+*.synctex.gz
+.directory
+./Stochastik/aufgaben/stochastik_aufgaben.pdf
