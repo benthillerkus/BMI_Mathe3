@@ -8,3 +8,17 @@ Notebook zu dem Monty Hall Probelm, welches auch Ziegenproblem genannt wird. Opt
 Übung zu den Themen Wahrscheninlichkeitsverteilung und Kennwerte.
 ## Python
 Einen Crashkurs zur Sprache Python finden Sie [hier](https://github.com/mati3230/PythonBasics).
+Alternativ können sie Python und Jupyter über [Anaconda](https://www.anaconda.com/) oder die leichtgewichtigere [Miniconda](https://docs.conda.io/en/latest/miniconda.html) Umgebung installieren (siehe [Video](https://youtu.be/5mDYijMfSzs)). 
+### Requirements
+Sie können die Abhängigkeiten (siehe [requirement.txt](./requirements.txt)) mit Hilfe von python [pip](https://de.wikipedia.org/wiki/Pip_%28Python%29) installieren. Öffnen Sie dazu eine Konsole (Terminal), aus der Sie python ausführen können. Falls Sie Anaconda o. Miniconda über Windows installiert haben, können Sie die Anaconda Prompt als Python-Konsole öffnen. 
+Setzen sie das current directory cd auf dieses Repository (diesen Ordner) mit
+
+```
+cd C:/your/path/to/this/directory
+```
+
+Geben Sie anschließend folgenden Befehl ein: 
+
+```
+pip install -r requirements.txt
+```
